@@ -6,6 +6,7 @@ I have worked on the following technologies:
 - MySQL
 - React JS
 - Android
+- MERN stack
 
 
   
